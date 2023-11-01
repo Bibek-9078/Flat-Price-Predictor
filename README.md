@@ -1,4 +1,3 @@
-
 # Flat-Price-Predictor
 
 The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and estimate the prices of flats or apartments in the Indian state of Haryana. It utilizes various data and factors, including market trends, location, property features, and economic indicators, to provide potential buyers or investors with insights into expected flat prices in the region.
@@ -6,20 +5,20 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
 ## Roadmap
 
-- 1.data gathering 
+1.data gathering 
 
         a.Project overview in details
 
         b. Gather data for the project
 
         c. Details of the data
-- 2.data preprossing 
+2.data preprossing 
 
         a. Merging House and Flats Data
 
         b. Basic Level Data Cleaning
 
-- 3.Feature Engineering
+3.Feature Engineering
 
     A. Feature Engineering on Columns:
 
