@@ -6,20 +6,20 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
 ## Roadmap
 
-- data gathering 
+- 1.data gathering 
 
-        a Project overview in details
+        a.Project overview in details
 
-        b Gather data for the project
+        b. Gather data for the project
 
-        c Details of the data
-- data preprossing 
+        c. Details of the data
+- 2.data preprossing 
 
-        a Merging House and Flats Data
+        a. Merging House and Flats Data
 
-        b Basic Level Data Cleaning
+        b. Basic Level Data Cleaning
 
-- Feature Engineering
+- 3.Feature Engineering
 
     A. Feature Engineering on Columns:
 
