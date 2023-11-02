@@ -7,7 +7,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
 ![Static Badge](https://img.shields.io/badge/1.Data_gathering-grey) ![Static Badge](https://img.shields.io/badge/2.Data_preprossing%2FCleaning-grey) ![Static Badge](https://img.shields.io/badge/3.Feature_Engineering-grey) ![Static Badge](https://img.shields.io/badge/4.Exploratory_data%20analysis%20(EDA)%20-grey) ![Static Badge](https://img.shields.io/badge/5.Outlier_%20Detection%20and%20Removal%20-grey) ![Static Badge](https://img.shields.io/badge/6.Missing_%20Value%20imputation%20-grey) ![Static Badge](https://img.shields.io/badge/7.Feature%20_selection%20-grey) ![Static Badge](https://img.shields.io/badge/8.Model%20_Selection%20%26%20Productionalization%20-grey) ![Static Badge](https://img.shields.io/badge/%209.%20Building_%20the%20Analytics%20Module%20-grey) ![Static Badge](https://img.shields.io/badge/10.%20Building%20_the%20Recommender%20System%20-grey) ![Static Badge](https://img.shields.io/badge/11.Building%20_the%20Insights%20Module%20-grey)
 
-1.Data gathering 
+## 1.Data gathering 
 
         a.Project overview in details
 
@@ -15,13 +15,13 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         c. Details of the data
 
-2.Data preprossing/Cleaning
+## 2.Data preprossing/Cleaning
 
         a. Merging House and Flats Data
 
         b. Basic Level Data Cleaning
 
-3.Feature Engineering
+## 3.Feature Engineering
 
     A. Feature Engineering on Columns:
 
@@ -35,7 +35,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         v.features : luxury Score
         
-4.Exploratory data analysis (EDA) 
+## 4.Exploratory data analysis (EDA) 
 
         A.	Univariate Analysis
 
@@ -43,19 +43,19 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         C.	Multivariate Analysis
 
-5.Outlier Detection and Removal
+## 5.Outlier Detection and Removal
 
         a.	Outlier Detection And removal
 
-6.Missing Value imputation
+## 6.Missing Value imputation
 
         a.	Outlier Detection and Removal on area and bedroom
 
         b.	Missing Value Imputation
 
-7.Feature Selection
+## 7.Feature Selection
 
-    a.Feature Selection
+##         a.Feature Selection
 
         i.Correlation Technique
 
@@ -73,16 +73,16 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         viii.SHAP (Explainable AI)
 
-    b.Linear Regression - Base Model
+   ##  b.Linear Regression - Base Model
 
         i.	One-Hot Encoding
 
         ii.	Transformation
 
         iii.Pipeline for Linear Regression
-    c. SVR
+##    c. SVR
 
- 9. Building the Analytics Module
+## 9. Building the Analytics Module
 
             a.geo map 
 
@@ -97,7 +97,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
             f.distplot of price of flat and house 
 
 
- 10. Building the Recommender System
+ ## 10. Building the Recommender System
 
         a.Recommender System using Top Facilities
 
@@ -114,5 +114,4 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 ## setup
 ## Demo
 
-Insert gif or link to demo
 
