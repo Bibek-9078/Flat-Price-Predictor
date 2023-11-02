@@ -9,7 +9,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
 ## 1.Data gathering 
 
-        a.Project overview in details
+        a. Project overview in details
 
         b. Gather data for the project
 
@@ -29,7 +29,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         ii.Area With Type
 
-        iii. Age Possession
+        iii.Age Possession
 
         iv.Furnish Details
 
@@ -37,25 +37,25 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
         
 ## 4.Exploratory data analysis (EDA) 
 
-        A.	Univariate Analysis
+        A. Univariate Analysis
 
-        B.	PandsProfiling
+        B. PandsProfiling
 
-        C.	Multivariate Analysis
+        C. Multivariate Analysis
 
 ## 5.Outlier Detection and Removal
 
-        a.	Outlier Detection And removal
+        a. Outlier Detection And removal
 
 ## 6.Missing Value imputation
 
-        a.	Outlier Detection and Removal on area and bedroom
+        a. Outlier Detection and Removal on area and bedroom
 
-        b.	Missing Value Imputation
+        b. Missing Value Imputation
 
 ## 7.Feature Selection
 
-          a.Feature Selection
+          a. Feature Selection
 
         i.Correlation Technique
 
@@ -73,37 +73,37 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         viii.SHAP (Explainable AI)
 
-             b.Linear Regression - Base Model
+             b. Linear Regression - Base Model
 
-        i.	One-Hot Encoding
+        i. One-Hot Encoding
 
-        ii.	Transformation
+        ii. Transformation
 
-        iii.Pipeline for Linear Regression
+        iii. Pipeline for Linear Regression
            c. SVR
 
 ## 9. Building the Analytics Module
 
-            a.geo map 
+            a. geo map 
 
-            b.word cloud amenities
+            b. word cloud amenities
 
-            c.scatterplot -> area vs price 
+            c. scatterplot -> area vs price 
 
-            d.pie chart bhk filter by sector 
+            d. pie chart bhk filter by sector 
 
-            e.side by side boxplot bedroom price 
+            e. side by side boxplot bedroom price 
 
-            f.distplot of price of flat and house 
+            f. distplot of price of flat and house 
 
 
  ## 10. Building the Recommender System
 
-        a.Recommender System using Top Facilities
+        a. Recommender System using Top Facilities
 
-        b.Recommender System using Price Details
+        b. Recommender System using Price Details
 
-        c.Recommender System using Location Advantages
+        c. Recommender System using Location Advantages
  
 
 
