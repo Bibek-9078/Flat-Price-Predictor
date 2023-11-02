@@ -6,7 +6,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
 ## Roadmap
 
-1.data gathering 
+1.Data gathering 
 
         a.Project overview in details
 
@@ -14,7 +14,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         c. Details of the data
 
-2.data preprossing/Cleaning
+2.Data preprossing/Cleaning
 
         a. Merging House and Flats Data
 
