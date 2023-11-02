@@ -2,10 +2,10 @@
 # Flat-Price-Predictor
 
 The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and estimate the prices of flats or apartments in the Indian state of Haryana. It utilizes various data and factors, including market trends, location, property features, and economic indicators, to provide potential buyers or investors with insights into expected flat prices in the region.
-https://img.shields.io/badge/Data%20cleanning-8A2BE2
-
 
 ## Roadmap
+
+![Static Badge](https://img.shields.io/badge/1.Data_gathering-grey) ![Static Badge](https://img.shields.io/badge/2.Data_preprossing%2FCleaning-grey) ![Static Badge](https://img.shields.io/badge/3.Feature_Engineering-grey) ![Static Badge](https://img.shields.io/badge/4.Exploratory_data%20analysis%20(EDA)%20-grey) ![Static Badge](https://img.shields.io/badge/5.Outlier_%20Detection%20and%20Removal%20-grey) ![Static Badge](https://img.shields.io/badge/6.Missing_%20Value%20imputation%20-grey) ![Static Badge](https://img.shields.io/badge/7.Feature%20_selection%20-grey) ![Static Badge](https://img.shields.io/badge/8.Model%20_Selection%20%26%20Productionalization%20-grey) ![Static Badge](https://img.shields.io/badge/%209.%20Building_%20the%20Analytics%20Module%20-grey) ![Static Badge](https://img.shields.io/badge/10.%20Building%20_the%20Recommender%20System%20-grey) ![Static Badge](https://img.shields.io/badge/11.Building%20_the%20Insights%20Module%20-grey)
 
 1.Data gathering 
 
@@ -47,7 +47,7 @@ https://img.shields.io/badge/Data%20cleanning-8A2BE2
 
         a.	Outlier Detection And removal
 
-6.Missing Value Imputation
+6.Missing Value imputation
 
         a.	Outlier Detection and Removal on area and bedroom
 
