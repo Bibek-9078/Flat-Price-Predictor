@@ -81,6 +81,24 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         iii. Pipeline for Linear Regression
            c. SVR
+           
+## 8. Model Selection & Productionalization
+
+        a.Price Prediction Pipeline
+        
+                i. Encoding Selection
+                
+                        1. Ordinal Encoding
+                        
+                        2. OHE
+                        
+                        3. OHE with PCA
+                        
+                        4. Target Encoding
+                        
+                ii. Model Selection
+                
+b.Price Prediction Web Interface -Streamlit
 
 ## 9. Building the Analytics Module
 
@@ -104,6 +122,13 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
         b. Recommender System using Price Details
 
         c. Recommender System using Location Advantages
+
+        d.Evaluating Recommendation Results
+
+        e.Web Interface for Recommendation (Streamlit)
+        
+## 11. Building the Insights Module
+
  
 
 
