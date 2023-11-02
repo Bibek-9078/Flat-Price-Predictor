@@ -55,7 +55,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
 ## 7.Feature Selection
 
-##         a.Feature Selection
+          a.Feature Selection
 
         i.Correlation Technique
 
@@ -73,14 +73,14 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
         viii.SHAP (Explainable AI)
 
-   ##  b.Linear Regression - Base Model
+             b.Linear Regression - Base Model
 
         i.	One-Hot Encoding
 
         ii.	Transformation
 
         iii.Pipeline for Linear Regression
-##    c. SVR
+           c. SVR
 
 ## 9. Building the Analytics Module
 
