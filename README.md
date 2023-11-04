@@ -127,12 +127,6 @@ b.Price Prediction Web Interface -Streamlit
 
         e.Web Interface for Recommendation (Streamlit)
         
-## 11. Building the Insights Module
-
- 
-
-
-
 
 ## dataset
 ## installation 
