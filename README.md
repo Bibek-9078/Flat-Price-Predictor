@@ -100,22 +100,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
                 
 b.Price Prediction Web Interface -Streamlit
 
-## 9. Building the Analytics Module
-
-            a. geo map 
-
-            b. word cloud amenities
-
-            c. scatterplot -> area vs price 
-
-            d. pie chart bhk filter by sector 
-
-            e. side by side boxplot bedroom price 
-
-            f. distplot of price of flat and house 
-
-
- ## 10. Building the Recommender System
+ ## 9. Building the Recommender System
 
         a. Recommender System using Top Facilities
 
