@@ -5,7 +5,7 @@ The Flat-Price-Predictor in Gurgaon is a tool or system designed to forecast and
 
 ## Roadmap
 
-![Static Badge](https://img.shields.io/badge/1.Data_gathering-grey) ![Static Badge](https://img.shields.io/badge/2.Data_preprossing%2FCleaning-grey) ![Static Badge](https://img.shields.io/badge/3.Feature_Engineering-grey) ![Static Badge](https://img.shields.io/badge/4.Exploratory_data%20analysis%20(EDA)%20-grey) ![Static Badge](https://img.shields.io/badge/5.Outlier_%20Detection%20and%20Removal%20-grey) ![Static Badge](https://img.shields.io/badge/6.Missing_%20Value%20imputation%20-grey) ![Static Badge](https://img.shields.io/badge/7.Feature%20_selection%20-grey) ![Static Badge](https://img.shields.io/badge/8.Model%20_Selection%20%26%20Productionalization%20-grey) ![Static Badge](https://img.shields.io/badge/9.%20Building%20_the%20Recommender%20System%20-grey) 
+![Static Badge](https://img.shields.io/badge/1.Data_gathering-grey) ![Static Badge](https://img.shields.io/badge/2.Data_preprossing%2FCleaning-grey) ![Static Badge](https://img.shields.io/badge/3.Feature_Engineering-grey) ![Static Badge](https://img.shields.io/badge/4.Exploratory_data%20analysis%20(EDA)%20-grey) ![Static Badge](https://img.shields.io/badge/5.Outlier_%20Detection%20and%20Removal%20-grey) ![Static Badge](https://img.shields.io/badge/6.Missing_%20Value%20imputation%20-grey) ![Static Badge](https://img.shields.io/badge/7.Feature%20_selection%20-grey) ![Static Badge](https://img.shields.io/badge/8.Model%20_Selection%20%26%20Productionalization%20-grey) ![Static Badge](https://img.shields.io/badge/9.%20Building%20_the%20Recommender%20System%20-grey)
 
 ## dataset
 
